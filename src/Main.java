@@ -12,5 +12,10 @@ public class Main {
         x.size="1234cc";
         x.weight="6453k";
 
+        color col=new color();
+        col.colorTight="True";
+        col.colorWindow="True";
+        col.colorTyre="False";
+
     }
 }
